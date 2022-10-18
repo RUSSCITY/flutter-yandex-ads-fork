@@ -15,9 +15,9 @@ Flutter Yandex Ads.
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
-  s.dependency 'YandexMobileAds'
-  s.dependency 'YandexMobileAdsInstream'
-  s.dependency 'YandexMobileAdsMediation'
+  s.dependency 'YandexMobileAds', '5.2.1'
+  s.dependency 'YandexMobileAdsInstream', '0.12.0'
+  s.dependency 'YandexMobileAdsMediation', '5.2.1'
   s.platform = :ios, '11.0'
 
   # Flutter.framework does not contain a i386 slice.
