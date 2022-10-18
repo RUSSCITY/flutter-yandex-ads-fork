@@ -1,9 +1,7 @@
 PODS:
   - AdMobYandexMobileAdsAdapters (9.9.0.0):
     - AdMobYandexMobileAdsAdapters/Static (= 9.9.0.0)
-    - Google-Mobile-Ads-SDK (~> 9.9.0)
   - AdMobYandexMobileAdsAdapters/Static (9.9.0.0):
-    - Google-Mobile-Ads-SDK (~> 9.9.0)
     - YandexMobileAds (~> 5.2.0)
   - AppLovinSDK (11.4.4)
   - AppLovinYandexMobileAdsAdapters (11.4.3.0):
@@ -18,9 +16,6 @@ PODS:
     - YandexMobileAds
     - YandexMobileAdsInstream
     - YandexMobileAdsMediation
-  - Google-Mobile-Ads-SDK (9.9.0):
-    - GoogleAppMeasurement (< 10.0, >= 7.0)
-    - GoogleUserMessagingPlatform (>= 1.1)
   - GoogleAppMeasurement (9.6.0):
     - GoogleAppMeasurement/AdIdSupport (= 9.6.0)
     - GoogleUtilities/AppDelegateSwizzler (~> 7.7)
@@ -160,7 +155,6 @@ SPEC CHECKSUMS:
   AppLovinYandexMobileAdsAdapters: 184f630c6b3a938214a11a573fc671d70e5e7167
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
   flutter_yandex_ads: cd539ac263ca33e33b2c1167fe5933904208dbfb
-  Google-Mobile-Ads-SDK: 8822993da940ab920bad131b5bffce7eb3f62c6a
   GoogleAppMeasurement: 6de2b1a69e4326eb82ee05d138f6a5cb7311bcb1
   GoogleUserMessagingPlatform: 5f8b30daf181805317b6b985bb51c1ff3beca054
   GoogleUtilities: 1d20a6ad97ef46f67bbdec158ce00563a671ebb7
